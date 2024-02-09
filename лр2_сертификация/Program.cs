@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("BTS!");
+﻿// See https://aka.ms/аnew-console-template for more information
+Console.WriteLine("BTваS!");
